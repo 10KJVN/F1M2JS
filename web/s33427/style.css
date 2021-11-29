@@ -1,0 +1,12 @@
+body{
+    background-image: url(100x100.gif);
+}
+
+h1{
+    background-color: gray;
+}
+
+div{
+    background-color: black;
+    color: blanchedalmond;
+}
