@@ -1,0 +1,9 @@
+body{
+    background-color: darkblue;
+}
+
+#container{
+    background-color: rebeccapurple;
+    width: 700px;
+    margin: auto;
+}
